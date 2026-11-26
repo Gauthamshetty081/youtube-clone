@@ -8,9 +8,9 @@ A responsive front-end clone of the YouTube homepage, built with HTML and CSS.
 - Video grid with thumbnails, titles, channel names, and views
 - Hover effects and clean layout
 
-## Demo
-Here's a look of the page : <img width="1892" height="896" alt="image" src="https://github.com/user-attachments/assets/de28ca8e-38c9-40bc-bad2-8589f414817b" />
-  
+##Demo
+Here's a look of the webpage : <img width="1892" height="896" alt="image" src="https://github.com/user-attachments/assets/de28ca8e-38c9-40bc-bad2-8589f414817b" />
+And Here's the link : https://gauthamshetty081.github.io/youtube-clone/  
 
 ## Tech Stack
 - HTML5
